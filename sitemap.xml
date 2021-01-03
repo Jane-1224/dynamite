@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://dynamite.com/index.html</loc>
+    <lastmod>2020-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dynamite.com/images/031-tinkerbell2008-crop-u94.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynamite.com/images/004-tinkerbell2008-crop-u165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dynamite.com/images/p5-crop-u184.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dynamite.com/2.html</loc>
+    <lastmod>2020-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dynamite.com/images/044-tinkerbell2008.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://dynamite.com/3.html</loc>
+    <lastmod>2020-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
